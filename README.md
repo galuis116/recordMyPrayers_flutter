@@ -5,8 +5,5 @@
 
  This is the starting project.
 
- # Skype is convenient for communication.
- This is my Skype id: `live:.cid.83c88d679e7cbc7e`
 
- If you look at this project, please send message by skype.
 
