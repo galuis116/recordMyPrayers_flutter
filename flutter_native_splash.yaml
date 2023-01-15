@@ -1,15 +1,15 @@
 flutter_native_splash:
   color: "#ffffff"
   image: assets/splashscreen/splash.png
-  branding: assets/splashscreen/splash.png
-  #color_dark: "#121212"
-  #image_dark: assets/logo-production.png
+  #branding: assets/splashscreen/splash.png
+  color_dark: "#121212"
+  image_dark: assets/splashscreen/splash.png
   #branding_dark: assets/branding-production.png
 
   android_12:
-    #image: assets/splashscreen/splash.png
+    image: assets/splashscreen/splash.png
     icon_background_color: "#ffffff"
-    #image_dark: assets/logo-production.png
+    image_dark: assets/splashscreen/splash.png
     icon_background_color_dark: "#121212"
 
-  web: false
+  fullscreen: true
